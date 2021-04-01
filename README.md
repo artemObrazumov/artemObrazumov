@@ -1,6 +1,6 @@
 - HI THERE -
 
-Age: 15
+Age: 15 \n
 Region: Russia
 Languages: Russian, English
 Learning: Android developement (only Java for now)
