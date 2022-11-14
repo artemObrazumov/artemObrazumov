@@ -1,13 +1,12 @@
 - HI THERE -
 
-Age: 15 <br/>
+Age: 16 <br/>
 Region: Russia <br/>
 Languages: Russian, English <br/>
-Learning: Android developement (only Java for now) <br/>
+Learning: Android developement (Java/Kotlin) <br/>
           Firebase <br/>
           Web <br/>
-Currently working on: My City App <br/>
-  (https://github.com/artemObrazumov/My-City) <br/>
+          SQL <br/>
 
 My name is Artem Obrazumov, and currently now I'm studying mobile developement.
 I-m quite new to it, so I would like to discover some of the repositories to improve my code and make it better (and also learn some new things :)
